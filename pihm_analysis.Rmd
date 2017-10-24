@@ -1,6 +1,0 @@
----
-title: "pihm_analysis"
-author: "Lynette Pan"
----
-
-<img src="images/Yue Pan_pihm_Rcoding.jpg" style="width:75%">

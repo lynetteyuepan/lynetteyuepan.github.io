@@ -12,7 +12,7 @@ navbar:
     - icon: fa fa-linkedin
       href: https://www.linkedin.com/in/yue-lynette-pan-081567129/
     - icon: fa fa-star
-      href: pihm_analysis.html
+      href: pihm_lynette.html
 output:
   html_document:
     theme: flatly
