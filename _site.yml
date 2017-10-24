@@ -1,0 +1,16 @@
+name: "lynette's-website"
+output_dir: "."
+navbar:
+  title: "Lynette's Website"
+  right:
+    - text: "About Me"
+      href: about.html
+    - icon: fa fa-share
+      href: mailto:<lynettepan@gmail.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/lynetteyuepan
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/yue-lynette-pan-081567129/
+output:
+  html_document:
+    theme: flatly

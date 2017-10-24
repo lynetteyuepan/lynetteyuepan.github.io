@@ -1,0 +1,10 @@
+---
+title: "Lynette's Website"
+---
+
+
+<img src="images/sash.jpg" style="width:75%">
+
+- __Name:__ Yue (Lynette) Pan
+- __Ocupation:__ First Year Graduate Student Studying Biostatistics
+- __Hobbies:__ Love learning new stuff ! 
