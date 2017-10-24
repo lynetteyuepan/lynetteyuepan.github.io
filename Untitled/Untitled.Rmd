@@ -1,0 +1,57 @@
+---
+name: Yue(Lynette) Pan
+    
+contact:
+    address: 50 Haven Avenue, 914, New York, New York 10032
+    telephone: 917-412-2103
+    email: yp2463@columbia.edu
+    url: http://lynetteyuepan.github.io
+
+  
+Summary: >
+  First year Biostatistics graduate student with advanced statistics and data analysis skills seeking a summer internship as a data analyst.
+
+skills:
+  - category: Applications
+    list: R, R Studio, MS office (MS Excel, MS word,PowerPoint)
+    continue: true
+  - category: Programming
+    list: R, Python, Matlab, SAS
+    continue: True
+  - category: Language
+    list: Mandarin, English
+
+education:
+  - school: COLUMBIA UNIVERSITY MAILMAN SCHOOL OF PUBLIC HEALTH, New York, NY
+    title: Master of Science
+    field:Biostatistics (Theory and Method Track)
+    year: expected May 2019
+    continue: true
+  - school: UNIVERSITY OF CALIFORNIA, SANTA BARBARA, Santa Barbara, CA
+    title:  Bachelor of Science
+    field: Biological Science
+    year: 2017
+
+experience:
+  - UNIVERSITY OF CALIFORNIA, SANTA BARBARA  Santa Barbara, CA
+         Parasites-induced Host Mortality Research Assistant (09/2016- 03/2017)
+         Utilized R programming to code generalized functions to detect parasite-induced host mortality based on the Likelihood Method.
+         Maintained/interpreted field database of over 10,000 records and performed statistical analysis.
+         Collaborated with two doctoral students and co-designed the R packages to determine parasite-induced effect on host. 
+  - UNIVERSITY OF CALIFORNIA, SANTA BARBARA, Santa Barbara, CA
+         Wildebeest Research Assistant (03/2016- 06/2017)
+         Analyzed satellite images to study the movement ecology of white-bearded wildebeest in the Greater Serengeti Ecosystem of Kenya and Tanzania. 
+         Visualizing data of the collective movement of wildebeest across large spatial scales.
+         Plotted movement of wildebeest using Google Earth and cloud-based image analysis program developed at UCSB called BisQue.
+  - STORKE RANCH VERNAL POOLS, Goleta, CA
+         Habitat Restoration Project and Maintenance Intern (09/2015- 12/2015)
+         Coordinated with conservation biologist on the Restoration project in Stroke Ranch Vernal Pools on invasive species control and nursery work.
+         Led groups of eight volunteers to prevent the vernal pools from invaded by non-indigenous species.
+         Conducted sampling of different indigenous and invasive plants and photo-documentation. 
+
+preamble: >
+  \usepackage{amsmath}
+  \usepackage{hyperref}
+output: resume::resume
+
+---
