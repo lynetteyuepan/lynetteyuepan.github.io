@@ -2,11 +2,12 @@
 title: "Yue Pan"
 ---
 
-<img src="images/DSC06764.jpg" style="width:90%">  
+<center><img src="images/DSC06764.jpg" style="width:80%"> </center> 
+
 
 - __Name:__ Yue (Lynette) Pan
 - __Ocupation:__ First Year Graduate Student Studying Biostatistics
-- __Brief intro:__ I received a BS in Biological Sciences with a minor in applied psychology from University of California, Santa Barbara in June 2017. Currently, I am a first year graduate student at Columbia Mailman School of Public Health study Biostatistics. Previously, I have worked on data management with 10,000 entries by using R on a project aiming to determine the parasites induced host mortality. I also helped with Lancey Hughey's project on Wildebeest and livestock project using Google Earth [detail](https://drive.google.com/drive/folders/0B_sTIJaPfBgWWGtrMmUyQTl2d3c). I really enjoy learning coding, managing big dataset and learning more software and method to do statistical analysis.
+- __Brief intro:__ I received a BS in Biological Sciences with a minor in applied psychology from University of California, Santa Barbara in June 2017. Currently, I am a first year graduate student at Columbia Mailman School of Public Health study Biostatistics. I really enjoy learning coding, managing big dataset and learning more software and method to do statistical analysis. Previously, I have worked on database with over 10,000 entries by using R and tried to determine whether parasites can induce host mortality with Mark Wilber. I also helped with Lancey Hughey's project on Wildebeest and livestock project using Google Earth [detail](https://drive.google.com/drive/folders/0B_sTIJaPfBgWWGtrMmUyQTl2d3c).
 - __Programming Skills:__ R (strong knowledge), Python (basic), Matlab (basic), SAS (learning)
 - __Learn more about me:__ The complete version of my resume is [here](about.html)
 
