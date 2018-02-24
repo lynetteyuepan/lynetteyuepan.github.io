@@ -3,4 +3,4 @@ title: "About me"
 ---
 
 
-<img src="images/resume.jpg" style="width:75%">
+<img src="images/resume.png" style="width:75%">
