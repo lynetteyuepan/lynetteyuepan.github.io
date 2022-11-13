@@ -1,7 +1,7 @@
 name: "lynette's-website"
 output_dir: "."
 navbar:
-  title: "Lynette's Website"
+  title: "Yue(Lynette) Pan"
   right:
     - text: "About Me"
       href: about.html
